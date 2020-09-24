@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleAdvanced": {
+      "commandName": "Project",
+      //"commandLineArgs": "one",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": false
+    }
+  }
+}
